@@ -19,7 +19,7 @@ entries:
       title: Libraries
       url: /libs
     - output: web,pdf
-      title: memory management.
+      title: Memory management.
       url: /mem
     - output: web,pdf
       title: Device

@@ -4,7 +4,7 @@
     "Core API": "/core",
     "Common": "/common",
     "Libraries": "/libs",
-    "memory management.": "/mem",
+    "Memory management.": "/mem",
     "Device": "/device",
     "Logging, exceptions & warnings.": "/log",
     "Visualization": "/vis",
