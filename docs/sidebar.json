@@ -1,6 +1,14 @@
 {
   "mx_utils": {
     "Overview": "/",
-    "Core API": "/core"
+    "Core API": "/core",
+    "Common": "/common",
+    "Libraries": "/libs",
+    "memory management.": "/mem",
+    "Device": "/device",
+    "Logging, exceptions & warnings.": "/log",
+    "Visualization": "/vis",
+    "Image": "/img",
+    "Data": "/data"
   }
 }

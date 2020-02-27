@@ -2,9 +2,16 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {}
+index = {"show_ram_usage": "03_mem.ipynb",
+         "purge_mem": "03_mem.ipynb",
+         "show_df_mem_usage": "03_mem.ipynb",
+         "reduce_df_mem_usage": "03_mem.ipynb",
+         "versions": "04_device.ipynb",
+         "supress_warnings": "05_log.ipynb"}
 
-modules = []
+modules = ["mem.py",
+           "gpu.py",
+           "log.py"]
 
 doc_url = "https://hallmx.github.io/mx_utils/"
 

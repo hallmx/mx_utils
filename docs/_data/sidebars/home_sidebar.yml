@@ -12,6 +12,30 @@ entries:
     - output: web,pdf
       title: Core API
       url: /core
+    - output: web,pdf
+      title: Common
+      url: /common
+    - output: web,pdf
+      title: Libraries
+      url: /libs
+    - output: web,pdf
+      title: memory management.
+      url: /mem
+    - output: web,pdf
+      title: Device
+      url: /device
+    - output: web,pdf
+      title: Logging, exceptions & warnings.
+      url: /log
+    - output: web,pdf
+      title: Visualization
+      url: /vis
+    - output: web,pdf
+      title: Image
+      url: /img
+    - output: web,pdf
+      title: Data
+      url: /data
     output: web
     title: mx_utils
   output: web
